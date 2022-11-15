@@ -1,4 +1,4 @@
-I'm Chris @buswinka, a PhD Candidate at Harvard Medical School interested in inner ear biology and deep learning for 3D biomedical instance segmentation. 
+I'm Chris @buswinka, a PhD Candidate at Harvard Medical School, Mass Eye and Ear interested in inner ear biology and deep learning. 
 <!---
 
 --->
